@@ -10,3 +10,12 @@ Note:- in this project, i have used *float* property and to clear its effect on 
 
 # preview linl given bellow 
 To see this website online [click here](https://sanjayyadavsky.github.io/wireless-Headphone-liveclass7/)
+
+
+# this page is fully responsive at on all the device 
+
+# mobile sample 
+![my result](./Screenshot%202023-02-20%20at%203.07.55%20am.png)
+
+# Tablet responsive 
+![my result](./Screenshot%202023-02-20%20at%203.07.44%20am.png)
